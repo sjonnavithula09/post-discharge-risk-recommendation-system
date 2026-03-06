@@ -6,19 +6,19 @@ This project develops a predictive framework to identify hospitals at high risk 
 The goal is to classify hospitals based on readmission performance and support strategy recommendations for improving hospital outcomes.
 
 ## Repository Structure
+
+```
 post-discharge-risk-recommendation-system
 │
+├── README.md
 ├── notebooks
-│ ├── 01_prep_eda_features.ipynb
-│ └── 02_modeling.ipynb
-│
+│   ├── 01_prep_eda_features.ipynb
+│   └── 02_modeling.ipynb
 ├── data
-│ ├── raw
-│ └── processed
-│
-├── reports
-│
-└── README.md
+│   ├── raw
+│   └── processed
+└── reports
+```
 
 ## Notebooks
 
