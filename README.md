@@ -31,6 +31,7 @@ The final output is an **interactive Streamlit dashboard** that allows users to 
 ---
 
 ## Repository Structure
+```
 post-discharge-risk-recommendation-system
 │
 ├── README.md
@@ -54,6 +55,7 @@ post-discharge-risk-recommendation-system
 └── reports
 ├── poster.pdf
 └── presentation.pdf
+```
 
 ---
 
@@ -194,4 +196,4 @@ streamlit run app/app.py
 
 **Srinija Jonnavithula**
 M.S. Applied Data Science — University of Florida
-Just paste this directly into your README.md file on GitHub and it'll render with all the formatting.
+
